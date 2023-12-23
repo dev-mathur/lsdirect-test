@@ -4,9 +4,9 @@ import plotly.express as px
 import pandas as pd
 
 # Load your dataframes
-products = pd.read_csv("data_analyst_csvs/products.csv")
-stores = pd.read_csv("data_analyst_csvs/stores.csv")
-transactions = pd.read_csv("data_analyst_csvs/transactions.csv")
+products = pd.read_csv("products.csv")
+stores = pd.read_csv("stores.csv")
+transactions = pd.read_csv("transactions.csv")
 
 # Prepare the dropdown options
 store_options = [{'label': i, 'value': i} for i in stores['StoreID'].unique()]
