@@ -2,14 +2,6 @@
 
 This project creates an interactive dashboard using Python's Dash library to visualize sales and revenue data per store in real-time.
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Installation
 
 - Clone this repository locally using: git clone (https://github.com/dev-mathur/lsdirect-test).git
