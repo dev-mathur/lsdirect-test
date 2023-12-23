@@ -8,6 +8,20 @@ products = pd.read_csv("products.csv")
 stores = pd.read_csv("stores.csv")
 transactions = pd.read_csv("transactions.csv")
 
+#Preprocessing
+'''
+#Convert to datetime
+transactions['PurchaseDate'] = pd.to_datetime(transactions['PurchaseDate'])
+
+#Convert Price to float
+transactions['Price'] = transactions['Price'].replace('[\$,]', '', regex=True).astype(float)
+
+#Replace NA values with default values
+transactions.fillna(0)
+stores.fillna(0)
+products.fillna(0)
+'''
+
 # Prepare the dropdown options
 store_options = [{'label': i, 'value': i} for i in stores['StoreID'].unique()]
 
