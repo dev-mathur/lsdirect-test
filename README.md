@@ -12,22 +12,9 @@ This project creates an interactive dashboard using Python's Dash library to vis
 
 ## Installation
 
-- Clone this repository locally using: git clone https://github.com/your/repository.git
+- Clone this repository locally using: git clone (https://github.com/dev-mathur/lsdirect-test).git
 - Install the required dependencies by running: pip install -r requirements.txt
 - Run the project using Python: python app.py
-
-
-## Usage
-
-- Open http://localhost:8080/admin/ to access Airflow
-- Run the redditDag on Airflow 
-
-BONUS - Access MongoDB instance on your local machine
-- In terminal, run docker ps
-- Double check for nwoai-mongo-1 and copy the container ID
-- Run docker exec -it <CONTAINER_ID> mongo
-- In Mongo: show dbs, use redditDB show collections
-- Once redditPosts is found: Run db.redditPosts.find()
 
 ## Tools Used
 Dash: Python framework for building analytical web applications
