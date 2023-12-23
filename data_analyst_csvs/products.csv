@@ -1,0 +1,109 @@
+ProductID,ProductName,ProductType,ProductCategory,Price
+1001,Blue Shorts,Shorts,Clothing,$34.99
+1002,Red Shorts,Shorts,Clothing,$34.99
+1003,Green Shorts,Shorts,Clothing,$34.99
+1004,Yellow Shorts,Shorts,Clothing,$34.99
+1005,Pink Shorts,Shorts,Clothing,$34.99
+1006,Black Shorts,Shorts,Clothing,$34.99
+1007,Purple Shorts,Shorts,Clothing,$34.99
+1008,Neon Shorts,Shorts,Clothing,$34.99
+1009,Blue Pants,Pants,Clothing,$48.99
+1010,Red Pants,Pants,Clothing,$48.99
+1011,Green Pants,Pants,Clothing,$48.99
+1012,Yellow Pants,Pants,Clothing,$48.99
+1013,Pink Pants,Pants,Clothing,$48.99
+1014,Black Pants,Pants,Clothing,$48.99
+1015,Purple Pants,Pants,Clothing,$48.99
+1016,Neon Pants,Pants,Clothing,$48.99
+1017,Blue T-Shirt,T-Shirt,Clothing,$25.99
+1018,Red T-Shirt,T-Shirt,Clothing,$25.99
+1019,Green T-Shirt,T-Shirt,Clothing,$25.99
+1020,Yellow T-Shirt,T-Shirt,Clothing,$25.99
+1021,Pink T-Shirt,T-Shirt,Clothing,$25.99
+1022,Black T-Shirt,T-Shirt,Clothing,$25.99
+1023,Purple T-Shirt,T-Shirt,Clothing,$25.99
+1024,Neon T-Shirt,T-Shirt,Clothing,$25.99
+1025,Blue Long Sleeve,Long Sleeve,Clothing,$33.99
+1026,Red Long Sleeve,Long Sleeve,Clothing,$33.99
+1027,Green Long Sleeve,Long Sleeve,Clothing,$33.99
+1028,Yellow Long Sleeve,Long Sleeve,Clothing,$33.99
+1029,Pink Long Sleeve,Long Sleeve,Clothing,$33.99
+1030,Black Long Sleeve,Long Sleeve,Clothing,$33.99
+1031,Purple Long Sleeve,Long Sleeve,Clothing,$33.99
+1032,Neon Long Sleeve,Long Sleeve,Clothing,$33.99
+1033,Blue Ball Cap,Ball Cap,Headwear,$19.99
+1034,Red Ball Cap,Ball Cap,Headwear,$19.99
+1035,Green Ball Cap,Ball Cap,Headwear,$19.99
+1036,Yellow Ball Cap,Ball Cap,Headwear,$19.99
+1037,Pink Ball Cap,Ball Cap,Headwear,$19.99
+1038,Black Ball Cap,Ball Cap,Headwear,$19.99
+1039,Purple Ball Cap,Ball Cap,Headwear,$19.99
+1040,Neon Ball Cap,Ball Cap,Headwear,$19.99
+1041,Blue Beanie,Beanie,Headwear,$25.99
+1042,Red Beanie,Beanie,Headwear,$25.99
+1043,Green Beanie,Beanie,Headwear,$25.99
+1044,Yellow Beanie,Beanie,Headwear,$25.99
+1045,Pink Beanie,Beanie,Headwear,$25.99
+1046,Black Beanie,Beanie,Headwear,$25.99
+1047,Purple Beanie,Beanie,Headwear,$25.99
+1048,Neon Beanie,Beanie,Headwear,$25.99
+1049,Blue Sandals,Sandals,Footwear,$33.99
+1050,Red Sandals,Sandals,Footwear,$33.99
+1051,Green Sandals,Sandals,Footwear,$33.99
+1052,Yellow Sandals,Sandals,Footwear,$33.99
+1053,Pink Sandals,Sandals,Footwear,$33.99
+1054,Black Sandals,Sandals,Footwear,$33.99
+1055,Purple Sandals,Sandals,Footwear,$33.99
+1056,Neon Sandals,Sandals,Footwear,$33.99
+1057,Blue Sneakers,Sneakers,Footwear,$38.99
+1058,Red Sneakers,Sneakers,Footwear,$38.99
+1059,Green Sneakers,Sneakers,Footwear,$38.99
+1060,Yellow Sneakers,Sneakers,Footwear,$38.99
+1061,Pink Sneakers,Sneakers,Footwear,$38.99
+1062,Black Sneakers,Sneakers,Footwear,$38.99
+1063,Purple Sneakers,Sneakers,Footwear,$38.99
+1064,Neon Sneakers,Sneakers,Footwear,$38.99
+1065,Dining table,Table,Furniture,"$2,000.99"
+1066,Armchair,Seating,Furniture,"$1,500.99"
+1067,Bed frame,Bed,Furniture,$800.99
+1068,Bookshelf,Shelving and Storage,Furniture,"$1,000.99"
+1069,Coffee table,Seating,Furniture,$500.99
+1070,Dresser,Shelving and Storage,Furniture,$800.99
+1071,Nightstand,Tables,Furniture,"$1,000.99"
+1072,TV stand,Shelving and Storage,Furniture,$300.99
+1073,Wardrobe,Shelving and Storage,Furniture,$500.99
+1074,Ottoman,Seating,Furniture,"$1,500.99"
+1075,Recliner,Seating,Furniture,$300.99
+1076,Sideboard,Shelving and Storage,Furniture,"$1,000.99"
+1077,Console table,Tables,Furniture,"$1,000.99"
+1078,Accent chair,Seating,Furniture,$500.99
+1079,Sectional sofa,Seating,Furniture,$500.99
+1080,Writing desk,Desk,Furniture,"$3,000.99"
+1081,End table,Tables,Furniture,$800.99
+1082,Bar stool,Seating,Furniture,$300.99
+1083,Chaise lounge,Seating,Furniture,$200.99
+1084,Rocking chair,Seating,Furniture,"$1,000.99"
+1085,Futon,Seating,Furniture,$500.99
+1086,Buffet,Tables,Furniture,$500.99
+1087,Display cabinet,Shelving and Storage,Furniture,"$1,000.99"
+1088,Bench,Seating,Furniture,"$1,500.99"
+1089,Vanity table,Tables,Furniture,$500.99
+1090,Murphy bed,Bed,Furniture,$500.99
+1091,Credenza,Shelving and Storage,Furniture,"$3,000.99"
+1092,Corner shelf,Shelving and Storage,Furniture,"$1,000.99"
+1093,Bar cabinet,Shelving and Storage,Furniture,$300.99
+1094,Accent table,Tables,Furniture,"$1,000.99"
+1095,Hall tree,Shelving and Storage,Furniture,$300.99
+1096,Folding chair,Seating,Furniture,$500.99
+1097,Secretary desk,Desk,Furniture,$100.99
+1098,Platform bed,Bed,Furniture,$800.99
+1099,Loft bed,Bed,Furniture,"$1,000.99"
+1100,Entertainment center,Shelving and Storage,Furniture,"$1,500.99"
+1101,Footstool,Seating,Furniture,"$1,000.99"
+1102,Chesterfield sofa,Seating,Furniture,$200.99
+1103,Bean bag chair,Seating,Furniture,"$5,000.99"
+1104,Wall-mounted shelf,Shelving and Storage,Furniture,$200.99
+1105,Bunk bed,Bed,Furniture,$200.99
+1106,Papasan chair,Seating,Furniture,"$1,500.99"
+1107,Slipper chair,Seating,Furniture,$500.99
+1108,Sofa,Couch,Furniture,$500.99
